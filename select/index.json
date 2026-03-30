@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "Skyline To",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-03-30T13:21:20.080072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Skyline_To_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Skyline To (Feat. Kendrick Lamar)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/02_Skyline_To_(Feat._Kendrick_Lamar)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Skyline To",
+      "artist": "Frank Ocean feat. Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/03_Skyline_To_Frank_Ocean_feat._Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Skyline To",
+      "artist": "Frank Ocean feat. Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_Skyline_To_Frank_Ocean_feat._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Skyline_To_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_Skyline_To_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Skyline To (Ft. Kendrick Lamar)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/07_Skyline_To_(Ft._Kendrick_Lamar)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skyline To [Explicit]",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/08_Skyline_To_[Explicit]_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Frank Ocean - Skyline To",
+      "artist": "Blonded",
+      "has_synced": true,
+      "path": "select/09_Frank_Ocean_-_Skyline_To_Blonded.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Skyline To (Paused)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/10_Skyline_To_(Paused)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skyline To Feat. Kendrick Lamar",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/11_Skyline_To_Feat._Kendrick_Lamar_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "06 - Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/12_06_-_Skyline_To_Frank_Ocean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Skyline_To_Frank_Ocean.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/localdb_01_Skyline_To_Frank_Ocean.lrc",
+      "repo_name": "KDnGA1cPFwI"
+    }
+  ]
+}
